@@ -1,3 +1,3 @@
 # Машинное обучение
-[Piazza](https://piazza.com/class/l7lkujt3byr4xh)
+[Piazza](https://piazza.com/class/l7lkujt3byr4xh)  
 **Лектор, практик и просто филантроп:** Хлопотов Максим Валерьевич
